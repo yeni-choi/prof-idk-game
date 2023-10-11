@@ -9,6 +9,6 @@
 
 - <b> Game Genre </b>: Adventure + Puzzle (Escape Room)
 - <b> Gameplay information </b>: Solve problems at each stage to successfully tackle the midterm exam. (3 stages in total, with achievements)
-- <b> Development Tools </b>: Unity 2D
+- <b> Development Tools </b>: Unity 2D + SketchBook
 - <b> Platform </b>: PC
 - <b> References </b> : Think of games like "Where's Waldo," "Hidden Folks," and "Dumb Ways to Die."
