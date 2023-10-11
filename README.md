@@ -1,2 +1,2 @@
-# prof-idk-game
-2021-unity-gameproject
+# Prof_IDK___2021
+ 2021 project
